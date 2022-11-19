@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swish-4
 - 👀 I’m interested in web and app dev
 - 🌱 I’m currently learning html, css, java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building and achieving dev goals
 - 📫 How to reach me nazirswish12@gmail.com
 
 <!---
