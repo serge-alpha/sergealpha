@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swish-4
+- 👋 Hi, I’m @serge alpha
 - 👀 I’m interested in web and app dev
 - 🌱 I’m currently learning html, css, java
 - 💞️ I’m looking to collaborate on building and achieving dev goals
