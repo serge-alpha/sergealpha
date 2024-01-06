@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and app dev
 - 🌱 Html, Css, Java , React
 - 💞️ I’m looking to collaborate on building and achieving dev goals. 
-- 📫 How to reach me nazirswish12@gmail.com
+- 📫 How to reach me sergealpha1@gmail.com
 
 <!---
 swish-4/swish-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
